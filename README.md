@@ -3,6 +3,8 @@ Solid knowledge in network architecture and security, infrastructure architectur
 Specialties include the latest technologies of Cisco, Juniper, F5 BigIP, routing protocolos, terraform, puppet and ansible automation, shell scripting (starting switching to python).<br>
 
 **Certifications:**<br>
+
+. AWS Certified Solutions Architect - Associate <br>
 . AWS Certified Advanced Networking - Specialty<br>
 . JNCIS - Juniper Networks Certified Internet Specialist - Routing and Switching<br>
 . JNCIA - Juniper Networks Certified Internet Associate<br>

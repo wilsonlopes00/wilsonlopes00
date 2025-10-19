@@ -1,5 +1,5 @@
 20 years working on 24/7 critical infrastructure environments and 24/7 services support, cloud and on premises, in the last 15 years with the role of technical leader and manager.<br>
-Deep knowledge in network architecture and security, cloud infrastructure architecture, unix systems and cyber security.<br>
+Deep knowledge in network architecture, cloud infrastructure architecture, unix systems and cyber security.<br>
 
 **Certifications:**<br>
 

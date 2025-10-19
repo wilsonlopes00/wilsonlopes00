@@ -1,9 +1,11 @@
-20 years working on large scale datacenter environments, in the last 10 years with the role of technical leader and I.T. manager.<br>
-Solid knowledge in network architecture and security, infrastructure architecture, AWS cloud network services and hybrid network architecture, DDoS mitigation and linux systems administration.<br>
+20 years working on large infrastructure environments and 24/7 critical services support, cloud and on premises, in the last 15 years with the role of technical leader and I.T. manager.<br>
+Deep knowledge in network architecture and security, cloud infrastructure architecture, unix system and cyber security.<br>
 
 **Certifications:**<br>
 
 . AWS Certified Solutions Architect - Associate <br>
 . AWS Certified Advanced Networking - Specialty<br>
+. KCNA - Kubernetes and Cloud Native Associate<br>
+. Oracle Cloud Infrastructure Certified Foundations Associate<br>
 . JNCIS - Juniper Networks Certified Internet Specialist - Routing and Switching<br>
 . JNCIA - Juniper Networks Certified Internet Associate<br>
